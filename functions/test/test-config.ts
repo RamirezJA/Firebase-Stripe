@@ -6,7 +6,7 @@ const firebaseConfig = {
     storageBucket:  "fireship-stripe-97f15.appspot.com",
 }
 
-const envConfig = { stripe: { secret: '' }};
+const envConfig = { stripe: { secret: 'sk_test_Bs41yrtCSh2CZ15mDcxvDjqd00qaVCYADp' }};
 
 const fun = TestFunctions(firebaseConfig, 'service-account.json')
 

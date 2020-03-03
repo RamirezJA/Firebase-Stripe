@@ -9,4 +9,4 @@ node_modules/
 
 #ignore file
 service-account.json
-./test/test-config.ts
+test/
